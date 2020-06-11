@@ -1,0 +1,25 @@
+{
+  "name": "graphql_nodejs",
+  "version": "1.0.0",
+  "description": "GraphQL & NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJAMartin/GraphQL-NodeJs.git"
+  },
+  "author": "Renaud Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJAMartin/GraphQL-NodeJs/issues"
+  },
+  "homepage": "https://github.com/RJAMartin/GraphQL-NodeJs#readme",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.1.0"
+  }
+}
